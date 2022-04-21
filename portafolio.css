@@ -1,0 +1,21 @@
+.navegador {
+ /* From https://css.glass */
+background-color:     #3516c2ec;
+
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.9px);
+-webkit-backdrop-filter: blur(14.9px);
+border: 1px solid rgba(39, 42, 141, 0.23);   
+}
+
+
+.presentacion {
+background-color:     #142d99;
+}
+
+li {
+    font-size: 120%;
+    
+}
+
